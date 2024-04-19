@@ -1,0 +1,100 @@
+
+183 I
+
+size: 1, max_height: 1, min_height: 1
+183 
+
+33 I
+
+size: 2, max_height: 2, min_height: 1
+183 33 
+
+48 I
+
+size: 3, max_height: 2, min_height: 2
+48 33 183 
+
+188 I
+
+size: 4, max_height: 3, min_height: 2
+48 33 183 188 
+
+187 I
+
+size: 5, max_height: 3, min_height: 2
+48 33 187 183 188 
+
+189 I
+
+size: 6, max_height: 4, min_height: 2
+48 33 187 183 188 189 
+
+128 I
+
+size: 7, max_height: 4, min_height: 2
+48 33 187 183 128 188 189 
+
+23 I
+
+size: 8, max_height: 4, min_height: 2
+48 33 23 187 183 128 188 189 
+
+191 I
+
+size: 9, max_height: 4, min_height: 2
+48 33 23 187 183 128 189 188 191 
+
+136 I
+
+size: 10, max_height: 4, min_height: 2
+48 33 23 187 136 128 183 189 188 191 
+
+95 I
+
+size: 11, max_height: 5, min_height: 2
+48 33 23 187 136 128 95 183 189 188 191 
+
+0 I
+
+size: 12, max_height: 5, min_height: 3
+48 23 0 33 187 136 128 95 183 189 188 191 
+
+35 I
+
+size: 13, max_height: 5, min_height: 3
+48 23 0 33 35 187 136 128 95 183 189 188 191 
+
+8 I
+
+size: 14, max_height: 5, min_height: 3
+48 23 0 8 33 35 187 136 128 95 183 189 188 191 
+
+43 I
+
+size: 15, max_height: 5, min_height: 3
+48 23 0 8 35 33 43 187 136 128 95 183 189 188 191 
+
+180 I
+
+size: 16, max_height: 5, min_height: 3
+48 23 0 8 35 33 43 187 136 128 95 183 180 189 188 191 
+
+162 I
+
+size: 17, max_height: 5, min_height: 3
+48 23 0 8 35 33 43 187 136 128 95 180 162 183 189 188 191 
+
+56 I
+
+size: 18, max_height: 5, min_height: 3
+48 23 0 8 35 33 43 187 136 95 56 128 180 162 183 189 188 191 
+
+27 I
+
+size: 19, max_height: 5, min_height: 3
+48 23 0 8 35 33 27 43 187 136 95 56 128 180 162 183 189 188 191 
+
+61 I
+
+size: 20, max_height: 6, min_height: 3
+48 23 0 8 35 33 27 43 187 136 95 56 61 128 180 162 183 189 188 191 
